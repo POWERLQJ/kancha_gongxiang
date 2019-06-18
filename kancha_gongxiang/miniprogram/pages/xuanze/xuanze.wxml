@@ -1,0 +1,15 @@
+<!--pages/xuanze/xuanze.wxml-->
+<view class='all'>
+<view class='f1'>
+<image class='f11' src='cloud://test-do7hi.7465-test-do7hi/img/kanchabj.jpg'></image>
+</view>
+<view class='f2'>
+<image class='f12'  bindtap='ma' src='cloud://test-do7hi.7465-test-do7hi/img/2.png'></image>
+</view>
+<view class='f3'>
+<image class='f13' bindtap='ma' src='cloud://test-do7hi.7465-test-do7hi/img/3.png'></image>
+</view>
+<view class='f4'>
+<image class='f14' bindtap='ma' src='cloud://test-do7hi.7465-test-do7hi/img/4.png'></image>
+</view>
+</view>

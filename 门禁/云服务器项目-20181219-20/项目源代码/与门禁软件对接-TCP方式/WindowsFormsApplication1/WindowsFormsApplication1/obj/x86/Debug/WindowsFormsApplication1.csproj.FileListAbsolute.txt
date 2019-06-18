@@ -1,0 +1,8 @@
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\与门禁软件对接-TCP方式\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

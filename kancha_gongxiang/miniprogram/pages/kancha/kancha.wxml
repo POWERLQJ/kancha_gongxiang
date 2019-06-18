@@ -1,0 +1,15 @@
+<!--pages/kancha/kancha.wxml-->
+<view class='center'>
+<view class='top'>
+    <image class='zyimg' mode='widthFix' src="../../images/search.jpg"></image>
+</view>
+<view class='top'>
+    <image class='zyimg' mode='widthFix' src="../../images/main1.png"></image>
+</view>
+<view class='top'>
+    <image class='zyimg' mode='widthFix' src="../../images/time.jpg"></image>
+</view>
+<view class='zyan'>
+  <text class='yycs' bindtap='yycs'>预约茶室</text> 
+</view>
+</view>

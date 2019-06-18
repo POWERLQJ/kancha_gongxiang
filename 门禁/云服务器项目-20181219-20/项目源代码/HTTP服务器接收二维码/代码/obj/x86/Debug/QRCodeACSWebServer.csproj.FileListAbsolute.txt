@@ -1,0 +1,17 @@
+D:\CSN_Desktop2018\2018\鼎昊客户\示例1.0\解码\bin\Debug\QRCodeACSWebServer.exe
+D:\CSN_Desktop2018\2018\鼎昊客户\示例1.0\解码\bin\Debug\QRCodeACSWebServer.pdb
+D:\CSN_Desktop2018\2018\鼎昊客户\示例1.0\解码\obj\x86\Debug\QRCodeACSWebServer.exe
+D:\CSN_Desktop2018\2018\鼎昊客户\示例1.0\解码\obj\x86\Debug\QRCodeACSWebServer.pdb
+D:\CSN_Desktop2018\2018\鼎昊客户\示例1.0\解码\obj\x86\Debug\QRCodeACSWebServer.FormMain.resources
+D:\CSN_Desktop2018\2018\鼎昊客户\示例1.0\解码\obj\x86\Debug\QRCodeACSWebServer.csproj.GenerateResource.Cache
+D:\微耕二次开发\工作区\20171212\云服务器项目\HTTP服务器接收二维码\解码\obj\x86\Debug\QRCodeACSWebServer.exe
+D:\微耕二次开发\工作区\20171212\云服务器项目\HTTP服务器接收二维码\解码\obj\x86\Debug\QRCodeACSWebServer.pdb
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\HTTP服务器接收二维码\代码\obj\x86\Debug\QRCodeACSWebServer.exe
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\HTTP服务器接收二维码\代码\obj\x86\Debug\QRCodeACSWebServer.pdb
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\HTTP服务器接收二维码\代码\bin\Debug\QRCodeACSWebServer.exe
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\HTTP服务器接收二维码\代码\bin\Debug\QRCodeACSWebServer.pdb
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\HTTP服务器接收二维码\代码\obj\x86\Debug\QRCodeACSWebServer.csprojResolveAssemblyReference.cache
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\HTTP服务器接收二维码\代码\obj\x86\Debug\QRCodeACSWebServer.FormMain.resources
+D:\微耕二次开发\工作区workzone\20171212\云服务器项目\HTTP服务器接收二维码\代码\obj\x86\Debug\QRCodeACSWebServer.csproj.GenerateResource.Cache
+D:\微耕二次开发\工作区workzone\20171212云服务器项目\云服务器项目\HTTP服务器接收二维码\代码\obj\x86\Debug\QRCodeACSWebServer.exe
+D:\微耕二次开发\工作区workzone\20171212云服务器项目\云服务器项目\HTTP服务器接收二维码\代码\obj\x86\Debug\QRCodeACSWebServer.pdb

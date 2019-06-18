@@ -1,0 +1,26 @@
+/* pages/kancha/kancha.wxss */
+.top{
+  display: flex;
+  justify-content: center;
+}
+.top image{
+  width: 750rpx;
+  height: 1200rpx;
+}
+.center{
+  background: white;
+}
+.zyan{
+  margin: 5rpx;
+  margin-left: 160rpx;
+  width: 400rpx;
+  height: 75rpx;
+  padding-top: 17rpx;
+  /* 边角圆滑 */
+  border-radius: 10px;
+  /*文本所在位置*/
+  text-align: center;
+  background-color: #44afb5;
+  font-size: 40rpx;
+  color: white;
+}

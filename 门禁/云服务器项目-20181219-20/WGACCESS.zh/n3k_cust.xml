@@ -1,0 +1,106 @@
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="appSettings" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="appSettings">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="key" type="xs:string" minOccurs="0" />
+                <xs:element name="value" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <appSettings>
+    <key>dbConnection</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>Language</key>
+    <value>zh-CHS</value>
+  </appSettings>
+  <appSettings>
+    <key>autologinName</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>autologinPassword</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>rgtries</key>
+    <value>1</value>
+  </appSettings>
+  <appSettings>
+    <key>NewSoftwareVersionInfo</key>
+    <value>7.111.92</value>
+  </appSettings>
+  <appSettings>
+    <key>RunTimes</key>
+    <value>1</value>
+  </appSettings>
+  <appSettings>
+    <key>NewSoftwareSpecialVersionInfo</key>
+    <value>7.111.92.19013</value>
+  </appSettings>
+  <appSettings>
+    <key>CommCurrent</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>RunTimeAt</key>
+    <value>2403</value>
+  </appSettings>
+  <appSettings>
+    <key>CommPCurrent</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>EMapZoomInfo</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>EMapLocInfo</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>DefaultNetworkIP</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>DefaultNetworkMac</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>DisplayFormat_DateYMD</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>DisplayFormat_DateYMDWeek</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>DisplayFormat_DateYMDHMS</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>DisplayFormat_DateYMDHMSWeek</key>
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>KEY_FoundControllerIPs</key>
+    <value>192.168.160.50,</value>
+  </appSettings>
+  <appSettings>
+    <key />
+    <value />
+  </appSettings>
+  <appSettings>
+    <key>KEY_WGQRCONFIG</key>
+    <value>1,0,0,0,0,0</value>
+  </appSettings>
+</NewDataSet>

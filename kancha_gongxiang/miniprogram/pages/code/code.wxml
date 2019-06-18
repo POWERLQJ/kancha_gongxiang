@@ -1,0 +1,13 @@
+<!--pages/code/code.wxml-->
+<view class='all'>
+<view class='code'>
+  <image class='a123' src='{{imageUrl}}' mode='widthFix'></image>
+</view>
+<view class='centre'>
+  <image class='a123'src='cloud://test-do7hi.7465-test-do7hi/img/shang.png' mode='widthFix'></image>
+</view>
+<view class='bottom'>
+  <image class='a123'src='cloud://test-do7hi.7465-test-do7hi/img/bottom.png' mode='widthFix'></image>
+</view>
+</view>
+

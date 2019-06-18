@@ -1,0 +1,33 @@
+/* pages/code/code.wxss */
+.all{
+  background:white;
+}
+.code{
+  background: #f3f3f3;
+  margin: 10rpx 170rpx;
+  padding:10rpx;
+  width: 400rpx;
+  height: 400rpx;
+  display: flex;
+  justify-content: center;
+
+}
+
+.centre{
+  margin: 10rpx 40rpx;
+  width: 700rpx;
+  height: 380rpx;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.bottom{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.a123{
+ vertical-align:top;
+}
